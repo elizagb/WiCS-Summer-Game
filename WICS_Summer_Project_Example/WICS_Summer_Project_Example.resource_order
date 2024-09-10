@@ -18,7 +18,11 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_ground","order":1,"path":"objects/obj_ground/obj_ground.yy",},
+    {"name":"obj_katie","order":2,"path":"objects/obj_katie/obj_katie.yy",},
+    {"name":"obj_player_group","order":3,"path":"objects/obj_player_group/obj_player_group.yy",},
     {"name":"spr_ground_corner","order":1,"path":"sprites/spr_ground_corner/spr_ground_corner.yy",},
+    {"name":"spr_player_1","order":4,"path":"sprites/spr_player_1/spr_player_1.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"sprite_katie","order":3,"path":"sprites/sprite_katie/sprite_katie.yy",},
   ],
 }
